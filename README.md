@@ -17,8 +17,8 @@ I am particularly interested in transforming raw data into actionable insights t
 
 - **Programming & Query Languages**: Python, SQL  
 - **Data Analytics & Visualization**: Power BI, Microsoft Excel  
-- **Data Engineering & Warehousing**: SSIS, SSAS, Data Modeling  
-- **Other Tools**: Git, YAML, WinSCP, PuTTY
+- **Data Engineering & Warehousing**: SSIS, SSAS, Data Modeling, Azure
+- **Other Tools**: Git
 
 ---
 
